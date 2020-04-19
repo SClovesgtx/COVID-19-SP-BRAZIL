@@ -1,6 +1,6 @@
 ### Purpose of this Project
 
-Transform data from the [COVID-19 epidemiological bulletins of the state of São Paulo-Brazil](http://www.saude.sp.gov.br/cve-centro-de-vigilancia-epidemiologica-prof.-alexandre-vranjac/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus-covid-19/situacao-epidemiologica) that are in PDF to the CSV format for the purposes of statistical analysis and creation of a heat map of COVID-19 dispersion in the state.
+Transform data from the [COVID-19 epidemiological bulletins of the state of São Paulo-Brazil](http://www.saude.sp.gov.br/cve-centro-de-vigilancia-epidemiologica-prof.-alexandre-vranjac/areas-de-vigilancia/doencas-de-transmissao-respiratoria/coronavirus-covid-19/situacao-epidemiologica) that are in PDF to the CSV format for the purposes of statistical analysis and creation of a heat map of COVID-19 dispersion in the state of São Paulo-Brazil.
 
 I am making the data of the epidemiological bulletins available in csv format [here](https://www.kaggle.com/clovesgtx/covid19-municpios-de-so-paulo) in kaggle platform.
 
