@@ -1,7 +1,3 @@
-from geopy.geocoders import Nominatim
-from geopy.exc import GeocoderTimedOut
-import folium
-from folium import plugins
 import tabula
 import pandas as pd
 import os
